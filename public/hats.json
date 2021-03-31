@@ -1,7 +1,4 @@
 {
-    "none": {
-        "displayName": "Remove"
-    },
     "basketLeft": {
         "displayName": "Pick egg",
         "resourceName": "eggBlue.glb",
